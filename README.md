@@ -557,6 +557,18 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - PHP, Code Quality, Testing (TDD/BDD), Community
 - Location - McKinney, TX
 
+#### Bonny P McClain
+- [@datamongerbonny](https://twitter.com/datamongerbonny)
+- [Open-Source Solutions for Geospatial Analysis](https://bonnypmcclain.substack.com)
+- [LinkedIn](https://www.linkedin.com/in/bonnypmcclain/)
+- Topics
+  - Data Skills to Measure Impact of the Built Infrastructure on Social Demographics
+  - Open Source Data Solutions in Urban Morphometry
+  - Python and Geospatial Analysis
+  - Exploring Census Data with Open Source Tools (QGIS, Python, SQL)
+  - Storytelling with Location Intelligence and Geospatial Data
+- Location - North Carolina, Washington, DC, New York City   
+
 #### Rachel Arst McCullough
 
 - [@ArstMcCullough](https://twitter.com/ArstMcCullough)
